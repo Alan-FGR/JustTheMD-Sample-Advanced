@@ -1,21 +1,4 @@
-# PAGE ONE
-
-# [PAGE TWO RELATIVE LINK](Pages/PageTwo.md)
-
-# [UNCONF PAGE IN FOLDER RELATIVE LINK](Pages/UnconfiguredPage.md)
-
-# [UNCONF PAGE IN FOLDER ABSOLUTE LINK](https://github.com/Alan-FGR/JustTheMD-Sample-Advanced/blob/master/Pages/UnconfiguredPage.md)
-
-# [UNCONF PAGE RELATIVE LINK](UnconfiguredPage.md)
-
-# [SOME CODE LINK](somecode.cpp)
-
-# [SOME CODE IN FOLDER LINK](Pages/someothercode.cpp)
-
-# Markdown: Syntax
-
-
-----
+# PAGE TWO
 
 ## Overview
 
